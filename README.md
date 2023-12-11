@@ -27,9 +27,9 @@ Actualmente estudiando para ser un Programador Full Stack, aunque me estoy encam
 ## 📂 Mis proyectos
 Al comienzo tenía pensado actualizar el código de mis primeros proyectos, pero después de pensarlo decidí no hacerlo, porque quiero que me sirvan como recordatorio de mi progreso, por ese motivo el código de los juegos creados es básico, tal vez no siguen las convenciones de programación, pero prefiero dejarlos en ese estado.
 
-<table>
+<table width='50%'>
 <tr>
-  <td width='50%'>
+  <td>
 
   ## 🛠️ Skills
 
@@ -62,9 +62,6 @@ Al comienzo tenía pensado actualizar el código de mis primeros proyectos, pero
   ![Figma](https://img.shields.io/badge/Figma-2B3A42?logo=figma)
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2B3A42?logo=githubpages)
   ![Vercel](https://img.shields.io/badge/Vercel-2B3A42?logo=vercel)
-  </td>
-  
-  <td>
   </td>
 </tr>
 </table>
