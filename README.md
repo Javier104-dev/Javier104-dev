@@ -27,7 +27,7 @@ Actualmente estudiando para ser un Programador Full Stack, aunque me estoy encam
 ## 📂 Mis proyectos
 Al comienzo tenía pensado actualizar el código de mis primeros proyectos, pero después de pensarlo decidí no hacerlo, porque quiero que me sirvan como recordatorio de mi progreso, por ese motivo el código de los juegos creados es básico, tal vez no siguen las convenciones de programación, pero prefiero dejarlos en ese estado.
 
-<table width='50%'>
+<table>
 <tr>
   <td>
 
