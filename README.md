@@ -19,12 +19,13 @@
   </a>
 </div>
 
-<h4 align='center'>Estudiante de Programación</h4>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 25px></picture> **Sobre mi**
 Actualmente estudiando para ser un Programador Full Stack, aunque me estoy encaminando más por el Back-End, es lo que más me gusto dentro de todo lo que estuve practicando.
 
-## 📂 Mis proyectos
+## 💼 Mi Portafolio
+https://mi-portafolio-indol.vercel.app/
+
+## 🗂 Mis proyectos
 Al comienzo tenía pensado actualizar el código de mis primeros proyectos, pero después de pensarlo decidí no hacerlo, porque quiero que me sirvan como recordatorio de mi progreso, por ese motivo el código de los juegos creados es básico, tal vez no siguen las convenciones de programación, pero prefiero dejarlos en ese estado.
 
 <table>
