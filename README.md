@@ -39,22 +39,29 @@ Al comienzo tenía pensado actualizar el código de mis primeros proyectos, pero
   ![ESLint](https://img.shields.io/badge/ESLint-2B3A42?logo=eslint&logoColor=%234B32C3)
   ![Markdown](https://img.shields.io/badge/Markdown-2B3A42?logo=markdown)
 
-
+  #### Front-End
   ![HTML5](https://img.shields.io/badge/HTML5-2B3A42?logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-2B3A42?logo=css3&logoColor=%231572B6)
   ![React](https://img.shields.io/badge/React-2B3A42?logo=react)
   ![Create React App](https://img.shields.io/badge/Create%20React%20App-2B3A42?logo=createreactapp)
   ![Next.js](https://img.shields.io/badge/Next.js-2B3A42?logo=nextdotjs)
 
+  #### Back-End
   ![Node.js](https://img.shields.io/badge/Node.js-2B3A42?logo=nodedotjs)
   ![Express](https://img.shields.io/badge/Express-2B3A42?logo=express)
   ![Nodemon](https://img.shields.io/badge/Nodemon-2B3A42?logo=nodemon)
   ![Dotenv](https://img.shields.io/badge/Dotenv-2B3A42?logo=dotenv)
   ![Sequelize](https://img.shields.io/badge/Sequelize-2B3A42?logo=sequelize)
 
+  ![NestJS](https://img.shields.io/badge/NestJS-2B3A42?logo=NestJS&logoColor=%23E0234E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-2B3A42?logo=TypeScript)
+
   #### Database
   ![MongoDB](https://img.shields.io/badge/MongoDB-2B3A42?logo=mongodb)
   ![MySQL](https://img.shields.io/badge/MySQL-2B3A42?logo=mysql)
+
+  #### Test
+  ![Jest](https://img.shields.io/badge/Jest-2B3A42?logo=jest&logoColor=%23C21325)
 
   #### Herramientas
   ![Git](https://img.shields.io/badge/Git-2B3A42?logo=git)
